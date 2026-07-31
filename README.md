@@ -43,7 +43,7 @@ Smart-Expense-Tracker-API/
 ├── AI_NOTES.md
 ├── requirements.txt
 │
-├── screenshots/
+├── Screen shots/
 │   ├── project-structure.png
 │   ├── swagger-ui.png
 │   ├── create-expense-201.png
@@ -67,9 +67,9 @@ Smart-Expense-Tracker-API/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/chandana-0/The-Assignment-Smart-Expense-Tracker-API.git
+git clone https://github.com/chandana-0/Smart-Expense-Tracker-API.git
 
-cd The-Assignment-Smart-Expense-Tracker-API
+cd Smart-Expense-Tracker-API
 ```
 
 ---
@@ -298,6 +298,6 @@ Possible enhancements:
 ---
 # Author
 
-***Gaddapara Chandana***
+**Gaddapara Chandana**
 
-***Diligent Software Engineering Apprenticeship 2026 Candidate***
+Developed for the **Diligent Software Engineering Apprenticeship 2026 Assignment**.
