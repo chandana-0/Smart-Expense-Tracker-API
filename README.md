@@ -221,7 +221,8 @@ HTTP Status:
 
 Screenshot:
 
-![Create Expense 201 Response](Screen shots/create-expense-201.png)
+![Create Expense 201 Response](Screen%20shots/create-expense-201.png)
+
 ---
 
 # Screenshots
@@ -230,20 +231,21 @@ Screenshot:
 
 VS Code Explorer showing the organized project structure.
 
-![Project Structure](Screen shots/project-structure.png)
+![Project Structure](Screen%20shots/project-structure.png)
+
 ---
 
 ## Swagger API Documentation
 
 Interactive API documentation provided by FastAPI Swagger UI.
 
-![Pytest Results](Screen shots/pytest-result.png)---
+![Swagger UI](Screen%20shots/swagger-ui.png)
 
 ## Test Execution
 
 Automated tests executed successfully using Pytest.
 
-![Pytest Results](screenshots/pytest-result.png)
+![Pytest Results](Screen%20shots/pytest-result.png)
 
 ---
 
@@ -292,10 +294,10 @@ Possible enhancements:
 ---
 # Conclusion
 
-The Smart Expense Tracker API successfully meets the requirements of the Diligent Software Engineering Apprenticeship 2026 Take-Home Assignment. The project demonstrates a clean, modular, and well-tested RESTful API built with FastAPI, following good software engineering practices and providing a solid foundation for future enhancements.
+- The Smart Expense Tracker API successfully meets the requirements of the Diligent Software Engineering Apprenticeship 2026 Take-Home Assignment. The project demonstrates a clean, modular, and well-tested RESTful API built with    FastAPI, following good software engineering practices and providing a solid foundation for future enhancements.
 ---
 # Author
 
-**Gaddapara Chandana**
+***Gaddapara Chandana***
 
-**Diligent Software Engineering Apprenticeship 2026 Candidate**
+***Diligent Software Engineering Apprenticeship 2026 Candidate***
