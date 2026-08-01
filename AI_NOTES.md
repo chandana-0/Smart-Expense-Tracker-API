@@ -68,7 +68,7 @@ AI was used to assist with:
 - Test case ideas.
 - Documentation improvements.
 
-## Developer Written / Modified
+## Developer Modified
 
 I was responsible for:
 
