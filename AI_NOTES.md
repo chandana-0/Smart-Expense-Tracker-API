@@ -4,7 +4,6 @@
 **Project:** Smart Expense Tracker API  
 **Submission Date:** July 31, 2026
 
-# AI Usage Notes
 
 ## AI Tools Used
 
