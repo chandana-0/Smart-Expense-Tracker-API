@@ -219,15 +219,9 @@ HTTP Status:
 201 Created
 ```
 
-Screenshot:
-
-![Create Expense 201 Response](Screen%20shots/create-expense-201.png)
-
----
-
 # Screenshots
 
-## Project Structure
+## 1. Project Structure
 
 VS Code Explorer showing the organized project structure.
 
@@ -235,19 +229,44 @@ VS Code Explorer showing the organized project structure.
 
 ---
 
-## Swagger API Documentation
+## 2. Server Running
+
+The FastAPI application is running successfully using Uvicorn.
+
+Command used:
+
+```bash
+uvicorn src.main:app --reload
+```
+
+![Server Running](Screen%20shots/server-running.png)
+
+---
+
+## 3. Swagger API Documentation
 
 Interactive API documentation provided by FastAPI Swagger UI.
 
 ![Swagger UI](Screen%20shots/swagger-ui.png)
 
-## Test Execution
+---
+
+## 4. Create Expense (201 Created)
+
+The API successfully creates a new expense and returns **HTTP 201 Created**.
+
+![Create Expense 201 Response](Screen%20shots/create-expense-201.png)
+
+---
+
+## 5. Test Execution
 
 Automated tests executed successfully using Pytest.
 
 ![Pytest Results](Screen%20shots/pytest-result.png)
 
 ---
+
 
 # Implementation Details
 
