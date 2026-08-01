@@ -1,8 +1,8 @@
+# AI Usage Notes
 
-
-**Author:** Gaddapara Chandana  
+**Prepared by:** Gaddapara Chandana  
 **Project:** Smart Expense Tracker API  
-**Date:** July 31, 2026
+**Submission Date:** July 31, 2026
 
 # AI Usage Notes
 
